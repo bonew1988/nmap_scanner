@@ -1,0 +1,373 @@
+[
+    {
+        "ip_address": "193.178.172.30",
+        "open_ports": [
+            22
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.31",
+        "open_ports": [
+            22
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.32",
+        "open_ports": [
+            22
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.33",
+        "open_ports": [
+            22,
+            139,
+            1900
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "139": {
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            "1900": {
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.34",
+        "open_ports": [],
+        "services": {}
+    },
+    {
+        "ip_address": "193.178.172.35",
+        "open_ports": [],
+        "services": {}
+    },
+    {
+        "ip_address": "193.178.172.36",
+        "open_ports": [
+            22,
+            139,
+            1900
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "139": {
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            "1900": {
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.37",
+        "open_ports": [
+            22,
+            139,
+            443,
+            1900
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "139": {
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            "443": {
+                "name": "https",
+                "product": "",
+                "version": ""
+            },
+            "1900": {
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.38",
+        "open_ports": [
+            22,
+            139,
+            1900
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "139": {
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            "1900": {
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.39",
+        "open_ports": [],
+        "services": {}
+    },
+    {
+        "ip_address": "193.178.172.40",
+        "open_ports": [
+            22
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.41",
+        "open_ports": [
+            22,
+            139,
+            1900
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "139": {
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            "1900": {
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.42",
+        "open_ports": [
+            21,
+            22,
+            25,
+            53,
+            80,
+            110,
+            143,
+            443,
+            465,
+            587,
+            993,
+            995
+        ],
+        "services": {
+            "21": {
+                "name": "ftp",
+                "product": "",
+                "version": ""
+            },
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "25": {
+                "name": "smtp",
+                "product": "",
+                "version": ""
+            },
+            "53": {
+                "name": "domain",
+                "product": "",
+                "version": ""
+            },
+            "80": {
+                "name": "http",
+                "product": "",
+                "version": ""
+            },
+            "110": {
+                "name": "pop3",
+                "product": "",
+                "version": ""
+            },
+            "143": {
+                "name": "imap",
+                "product": "",
+                "version": ""
+            },
+            "443": {
+                "name": "https",
+                "product": "",
+                "version": ""
+            },
+            "465": {
+                "name": "smtps",
+                "product": "",
+                "version": ""
+            },
+            "587": {
+                "name": "submission",
+                "product": "",
+                "version": ""
+            },
+            "993": {
+                "name": "imaps",
+                "product": "",
+                "version": ""
+            },
+            "995": {
+                "name": "pop3s",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.43",
+        "open_ports": [],
+        "services": {}
+    },
+    {
+        "ip_address": "193.178.172.44",
+        "open_ports": [
+            22,
+            139,
+            1900
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "139": {
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            "1900": {
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.45",
+        "open_ports": [],
+        "services": {}
+    },
+    {
+        "ip_address": "193.178.172.46",
+        "open_ports": [
+            22
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.47",
+        "open_ports": [],
+        "services": {}
+    },
+    {
+        "ip_address": "193.178.172.48",
+        "open_ports": [],
+        "services": {}
+    },
+    {
+        "ip_address": "193.178.172.49",
+        "open_ports": [
+            22,
+            139,
+            443,
+            1900
+        ],
+        "services": {
+            "22": {
+                "name": "ssh",
+                "product": "",
+                "version": ""
+            },
+            "139": {
+                "name": "netbios-ssn",
+                "product": "",
+                "version": ""
+            },
+            "443": {
+                "name": "https",
+                "product": "",
+                "version": ""
+            },
+            "1900": {
+                "name": "upnp",
+                "product": "",
+                "version": ""
+            }
+        }
+    },
+    {
+        "ip_address": "193.178.172.50",
+        "open_ports": [],
+        "services": {}
+    }
+]
